@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "test tech docs"
+  name: "test_tech_docs"
   description: "This is a test component for TechDocs."
   annotations:
     backstage.io/techdocs-ref: dir:.
