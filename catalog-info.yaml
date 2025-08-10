@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "test tech docs"
+  name: "test-tech-docs"
   description: "This is a test component for TechDocs."
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
   type: documentation
   lifecycle: experimental
-  owner: "group:default/kmotojim"
+  owner: "group:kmotojim-g/kmotojim-u"
