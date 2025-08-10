@@ -4,3 +4,4 @@ test1: add2
 main: add
 test2: add
 test2: add2
+test2: add3
